@@ -1,3 +1,5 @@
 This is text file 1. 
 Edit1: This is my sample file 1.
 edit2: This is my file 1 (branch1)
+
+file 1 Branch 2 
