@@ -7,3 +7,5 @@ Branch 1: dev1 working here.
 =======
 file 1 Branch 2 
 >>>>>>> branch2
+
+NEW FILE HERE
